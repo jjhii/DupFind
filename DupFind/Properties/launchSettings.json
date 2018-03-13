@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DupFind": {
+      "commandName": "Project",
+      "commandLineArgs": "-c \"E:\\ys\\Asian Girls\" -s \"E:\\ys\\Asians (general)\" -l \"E:\\torrents\\log3.txt\""
+    }
+  }
+}
